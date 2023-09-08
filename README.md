@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @althafthaju
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning sceintific computing and machine learning
+- 🌱 I’m currently learning sceintific computing and machine learning (this is amazing )
 - 📫 You can reach me on linkedin
